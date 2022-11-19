@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[To-do List Site](https://paulinagonzalezc.github.io/to-do-list/dist/)
+[To-do List Site](https://elad237.github.io/my-to-do-list/dist/)
 
 ## Getting Started
 
@@ -23,8 +23,8 @@ git clone https://github.com/elad237/My-to-do-list.git
 Set it up localy.
 
 ## Authors
-👤 **TUMBU BARTHOLOMEW ELAD**
 
+👤 **TUMBU BARTHOLOMEW ELAD**
  GitHub: [@githubhandle](https://github.com/elad237)
 - Twitter: [@twitterhandle](https://twitter.com/Elad59380989)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/tumbu-elad-896ab2183/)
